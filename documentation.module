@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the documentation feature.
+ */
+
+include_once 'documentation.features.inc';
